@@ -1,0 +1,15 @@
+/Users/inno607/Downloads/databaseSync/src/main/java/com/example/databaseSync/entity/local/EntityB.java
+/Users/inno607/Downloads/databaseSync/src/main/java/com/example/databaseSync/service/EntityBService.java
+/Users/inno607/Downloads/databaseSync/src/main/java/com/example/databaseSync/service/impl/DatabaseSyncServiceImpl.java
+/Users/inno607/Downloads/databaseSync/src/main/java/com/example/databaseSync/service/DatabaseSyncService.java
+/Users/inno607/Downloads/databaseSync/src/main/java/com/example/databaseSync/service/impl/EntityAServiceImpl.java
+/Users/inno607/Downloads/databaseSync/src/main/java/com/example/databaseSync/config/JdbcTemplateConfig.java
+/Users/inno607/Downloads/databaseSync/src/main/java/com/example/databaseSync/config/local/SlaveDatabase.java
+/Users/inno607/Downloads/databaseSync/src/main/java/com/example/databaseSync/entity/remote/EntityA.java
+/Users/inno607/Downloads/databaseSync/src/main/java/com/example/databaseSync/repository/local/EntityBRepository.java
+/Users/inno607/Downloads/databaseSync/src/main/java/com/example/databaseSync/utils/EntityManagerUtils.java
+/Users/inno607/Downloads/databaseSync/src/main/java/com/example/databaseSync/repository/remote/EntityARepository.java
+/Users/inno607/Downloads/databaseSync/src/main/java/com/example/databaseSync/service/impl/EntityBServiceImpl.java
+/Users/inno607/Downloads/databaseSync/src/main/java/com/example/databaseSync/config/remote/MasterDatabase.java
+/Users/inno607/Downloads/databaseSync/src/main/java/com/example/databaseSync/DatabaseSyncApplication.java
+/Users/inno607/Downloads/databaseSync/src/main/java/com/example/databaseSync/service/EntityAService.java

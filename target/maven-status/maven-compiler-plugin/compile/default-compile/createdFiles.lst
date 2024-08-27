@@ -1,0 +1,13 @@
+com/example/databaseSync/repository/local/EntityBRepository.class
+com/example/databaseSync/config/local/SlaveDatabase.class
+com/example/databaseSync/entity/local/EntityB.class
+com/example/databaseSync/DatabaseSyncApplication.class
+com/example/databaseSync/repository/remote/EntityARepository.class
+com/example/databaseSync/config/remote/MasterDatabase.class
+com/example/databaseSync/service/impl/EntityAServiceImpl.class
+com/example/databaseSync/service/EntityBService.class
+com/example/databaseSync/service/EntityAService.class
+com/example/databaseSync/entity/remote/EntityA.class
+com/example/databaseSync/service/impl/DatabaseSyncServiceImpl.class
+com/example/databaseSync/service/DatabaseSyncService.class
+com/example/databaseSync/service/impl/EntityBServiceImpl.class
